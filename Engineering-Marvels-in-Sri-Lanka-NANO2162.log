@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.19)  23 AUG 2026 16:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.19)  23 AUG 2026 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./sample.tex
-(sample.tex
+**./Engineering-Marvels-in-Sri-Lanka-NANO2162.tex
+(Engineering-Marvels-in-Sri-Lanka-NANO2162.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -416,8 +416,8 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count317
-) (sample.aux)
-\openout1 = `sample.aux'.
+) (Engineering-Marvels-in-Sri-Lanka-NANO2162.aux)
+\openout1 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
@@ -502,9 +502,10 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 36.
- (sample.out) (sample.out)
+ (Engineering-Marvels-in-Sri-Lanka-NANO2162.out)
+(Engineering-Marvels-in-Sri-Lanka-NANO2162.out)
 \@outlinefile=\write3
-\openout3 = `sample.out'.
+\openout3 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.out'.
 
 <logo.jpg, id=103, 263.48438pt x 263.48438pt>
 File: logo.jpg Graphic file (type jpg)
@@ -559,21 +560,23 @@ been already used, duplicate ignored
 l.97 	\newpage
                [1
 
-] (sample.toc)
+] (Engineering-Marvels-in-Sri-Lanka-NANO2162.toc)
 \tf@toc=\write4
-\openout4 = `sample.toc'.
+\openout4 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.toc'.
 
  [2
 
-] (sample.lof)
+]
+(Engineering-Marvels-in-Sri-Lanka-NANO2162.lof)
 \tf@lof=\write5
-\openout5 = `sample.lof'.
+\openout5 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.lof'.
 
  [3
 
-] (sample.lot)
+]
+(Engineering-Marvels-in-Sri-Lanka-NANO2162.lot)
 \tf@lot=\write6
-\openout6 = `sample.lot'.
+\openout6 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.lot'.
 
  [4
 
@@ -752,22 +755,23 @@ Chapter 7.
 
 ] [13
 
-] (sample.aux)
+] (Engineering-Marvels-in-Sri-Lanka-NANO2162.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-Package rerunfilecheck Info: File `sample.out' has not changed.
+Package rerunfilecheck Info: File `Engineering-Marvels-in-Sri-Lanka-NANO2162.ou
+t' has not changed.
 (rerunfilecheck)             Checksum: 6D231B01D960E60B5E574B14C6C5116F;4463.
  ) 
 Here is how much of TeX's memory you used:
  12869 strings out of 467871
- 205086 string characters out of 5418376
- 633808 words of memory out of 5000000
+ 206311 string characters out of 5418376
+ 633878 words of memory out of 5000000
  41506 multiletter control sequences out of 15000+600000
  669609 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,84p,1197b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,84p,1232b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmmi10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/pu
@@ -776,7 +780,8 @@ blic/amsfonts/cm/cmsy10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts
 type1/urw/times/utmb8a.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on sample.pdf (18 pages, 20566424 bytes).
+Output written on Engineering-Marvels-in-Sri-Lanka-NANO2162.pdf (18 pages, 2056
+6424 bytes).
 PDF statistics:
  300 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)
