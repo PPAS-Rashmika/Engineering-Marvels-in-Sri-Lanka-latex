@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.19)  23 AUG 2026 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.19)  23 AUG 2026 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,53 +506,58 @@ Package hyperref Info: Link coloring ON on input line 36.
 \@outlinefile=\write3
 \openout3 = `sample.out'.
 
-<logo.jpg, id=123, 263.48438pt x 263.48438pt>
+<logo.jpg, id=103, 263.48438pt x 263.48438pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg  used on input line 43.
 (pdftex.def)             Requested size: 136.57462pt x 136.57845pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 72.
+ 69.
 
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 72.
+ 69.
 
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 72.
+ 69.
 
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 72.
+ 69.
 
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 7
-2.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
+9.
 
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 
 [1
 
 {C:/Users/rashm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rash
 m/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./logo.jpg>]
-[1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.97 	\newpage
+               [1
 
 ] (sample.toc)
 \tf@toc=\write4
@@ -579,28 +584,34 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.121 	\chapter
+l.117 	\chapter
                {Sigiriya Rock Fortress} [1
 
 ]
 Chapter 2.
-<sigiriya rock.jpg, id=207, 8094.24pt x 6070.68pt>
+<sigiriya rock.jpg, id=181, 8094.24pt x 6070.68pt>
 File: sigiriya rock.jpg Graphic file (type jpg)
 <use sigiriya rock.jpg>
-Package pdftex.def Info: sigiriya rock.jpg  used on input line 139.
+Package pdftex.def Info: sigiriya rock.jpg  used on input line 134.
 (pdftex.def)             Requested size: 364.19667pt x 273.07619pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<sigiriya rock eng.jpg, id=208, 944.02687pt x 646.66594pt>
+<sigiriya rock eng.jpg, id=182, 944.02687pt x 646.66594pt>
 File: sigiriya rock eng.jpg Graphic file (type jpg)
 <use sigiriya rock eng.jpg>
-Package pdftex.def Info: sigiriya rock eng.jpg  used on input line 146.
+Package pdftex.def Info: sigiriya rock eng.jpg  used on input line 141.
 (pdftex.def)             Requested size: 364.19667pt x 249.47531pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.146 	\chapter
+               {Jetavanaramaya Stupa} [2
 
 ]
 
@@ -610,25 +621,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3 <./sigiriya rock.jpg> <./sigiriya rock eng.jpg>]
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.146 	\chapter
+               {Jetavanaramaya Stupa} [3 <./sigiriya rock.jpg> <./sigiriya rock
+ eng.jpg>]
 Chapter 3.
-<jetavanaramaya.jpg, id=221, 270.71138pt x 180.675pt>
+<jetavanaramaya.jpg, id=193, 270.71138pt x 180.675pt>
 File: jetavanaramaya.jpg Graphic file (type jpg)
 <use jetavanaramaya.jpg>
-Package pdftex.def Info: jetavanaramaya.jpg  used on input line 172.
+Package pdftex.def Info: jetavanaramaya.jpg  used on input line 165.
 (pdftex.def)             Requested size: 364.19667pt x 243.08743pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<jetavanaramaya eng.jpg, id=222, 452.69125pt x 363.3575pt>
+<jetavanaramaya eng.jpg, id=194, 452.69125pt x 363.3575pt>
 File: jetavanaramaya eng.jpg Graphic file (type jpg)
 <use jetavanaramaya eng.jpg>
-Package pdftex.def Info: jetavanaramaya eng.jpg  used on input line 179.
+Package pdftex.def Info: jetavanaramaya eng.jpg  used on input line 172.
 (pdftex.def)             Requested size: 364.19667pt x 292.32751pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.177 	\chapter
+               {Jaya Ganga (Yoda Ela)} [4
 
 ]
 
@@ -640,18 +664,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5 <./jetavanaramaya.jpg> <./jetavanaramaya eng.jpg>]
 Chapter 4.
-<Jaya Ganga.jpg, id=238, 2055.68pt x 1223.57124pt>
+<Jaya Ganga.jpg, id=210, 2055.68pt x 1223.57124pt>
 File: Jaya Ganga.jpg Graphic file (type jpg)
 <use Jaya Ganga.jpg>
-Package pdftex.def Info: Jaya Ganga.jpg  used on input line 215.
+Package pdftex.def Info: Jaya Ganga.jpg  used on input line 211.
 (pdftex.def)             Requested size: 364.19667pt x 216.76067pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Jaya Ganga eng.jpg, id=239, 471.26062pt x 456.20438pt>
+<Jaya Ganga eng.jpg, id=211, 471.26062pt x 456.20438pt>
 File: Jaya Ganga eng.jpg Graphic file (type jpg)
 <use Jaya Ganga eng.jpg>
-Package pdftex.def Info: Jaya Ganga eng.jpg  used on input line 222.
+Package pdftex.def Info: Jaya Ganga eng.jpg  used on input line 218.
 (pdftex.def)             Requested size: 364.19667pt x 352.56625pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -668,18 +692,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [7 <./Jaya Ganga.jpg> <./Jaya Ganga eng.jpg>]
 Chapter 5.
-<Nine Arches Bridge.jpg, id=250, 4015.0pt x 2258.4375pt>
+<Nine Arches Bridge.jpg, id=223, 4015.0pt x 2258.4375pt>
 File: Nine Arches Bridge.jpg Graphic file (type jpg)
 <use Nine Arches Bridge.jpg>
-Package pdftex.def Info: Nine Arches Bridge.jpg  used on input line 245.
+Package pdftex.def Info: Nine Arches Bridge.jpg  used on input line 238.
 (pdftex.def)             Requested size: 364.19667pt x 204.8358pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Nine Arches Bridge eng.jpg, id=251, 333.4056pt x 211.63065pt>
+<Nine Arches Bridge eng.jpg, id=224, 333.4056pt x 211.63065pt>
 File: Nine Arches Bridge eng.jpg Graphic file (type jpg)
 <use Nine Arches Bridge eng.jpg>
-Package pdftex.def Info: Nine Arches Bridge eng.jpg  used on input line 252.
+Package pdftex.def Info: Nine Arches Bridge eng.jpg  used on input line 245.
 (pdftex.def)             Requested size: 364.19667pt x 231.19594pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -696,18 +720,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9 <./Nine Arches Bridge.jpg> <./Nine Arches Bridge eng.jpg>]
 Chapter 6.
-<Victoria Dam.jpg, id=261, 3661.68pt x 2746.26pt>
+<Victoria Dam.jpg, id=234, 3661.68pt x 2746.26pt>
 File: Victoria Dam.jpg Graphic file (type jpg)
 <use Victoria Dam.jpg>
-Package pdftex.def Info: Victoria Dam.jpg  used on input line 280.
+Package pdftex.def Info: Victoria Dam.jpg  used on input line 266.
 (pdftex.def)             Requested size: 364.19667pt x 273.13353pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Victoria Dam eng.jpg, id=262, 1434.86063pt x 903.375pt>
+<Victoria Dam eng.jpg, id=235, 1434.86063pt x 903.375pt>
 File: Victoria Dam eng.jpg Graphic file (type jpg)
 <use Victoria Dam eng.jpg>
-Package pdftex.def Info: Victoria Dam eng.jpg  used on input line 287.
+Package pdftex.def Info: Victoria Dam eng.jpg  used on input line 273.
 (pdftex.def)             Requested size: 364.19667pt x 229.28929pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -734,14 +758,14 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `sample.out' has not changed.
-(rerunfilecheck)             Checksum: 35B5E787F56D29897FA725B26C9E8E88;5203.
+(rerunfilecheck)             Checksum: 6D231B01D960E60B5E574B14C6C5116F;4463.
  ) 
 Here is how much of TeX's memory you used:
- 12883 strings out of 467871
- 205072 string characters out of 5418376
- 635783 words of memory out of 5000000
- 41512 multiletter control sequences out of 15000+600000
- 672035 words of font info for 94 fonts, out of 8000000 for 9000
+ 12869 strings out of 467871
+ 204852 string characters out of 5418376
+ 633808 words of memory out of 5000000
+ 41506 multiletter control sequences out of 15000+600000
+ 669609 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,84p,1197b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
@@ -752,9 +776,9 @@ blic/amsfonts/cm/cmsy10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts
 type1/urw/times/utmb8a.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on sample.pdf (18 pages, 20569627 bytes).
+Output written on sample.pdf (18 pages, 20566424 bytes).
 PDF statistics:
- 329 PDF objects out of 1000 (max. 8388607)
- 67 named destinations out of 1000 (max. 500000)
- 296 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 300 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
 
