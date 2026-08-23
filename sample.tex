@@ -1,27 +1,30 @@
 \documentclass[12pt,a4paper]{report}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{mathptmx} % Times New Roman font for professional look
-\usepackage{geometry}
-\geometry{a4paper, margin=2.5cm}
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{setspace}
 \usepackage{parskip} 
-\usepackage[dvipsnames]{xcolor}
+\usepackage{caption}
 \usepackage{titlesec}
 \usepackage{fancyhdr}
 \usepackage[colorlinks=true, linkcolor=MidnightBlue, citecolor=MidnightBlue, urlcolor=MidnightBlue]{hyperref}
-\usepackage{caption}
 
-% --- Chapter and Section Formatting (titlesec) ---
+\usepackage[dvipsnames]{xcolor}
+
+
+%Chapter and Section Formatting
 \titleformat{\chapter}[hang]{\Huge\bfseries\color{MidnightBlue}}{\thechapter.}{20pt}{\Huge\bfseries}
 \titlespacing*{\chapter}{0pt}{0pt}{40pt}
 \titleformat{\section}{\Large\bfseries\color{MidnightBlue}}{\thesection}{1em}{}
 \titleformat{\subsection}{\large\bfseries\color{MidnightBlue}}{\thesubsection}{1em}{}
 
-% --- Header and Footer Configuration ---
+%Header and Footer Formatting
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[L]{\textcolor{gray}{\small Engineering Marvels of Sri Lanka}}
@@ -32,34 +35,39 @@
 
 \begin{document}
 	
-	% --- Professional Title Page ---
+	%Title Page
 	\begin{titlepage}
 		\begin{center}
+			
 			\vspace*{1cm}
+			\includegraphics[width=0.3\textwidth]{logo.jpg}
 			
-			\fbox{\rule{0pt}{1.5in} \rule{1.5in}{0pt}} % Placeholder box for Logo
-			
-			\vspace{1.5cm}
-			{\Large \textbf{\uppercase{[Insert University Name]}}} \\
+			\vspace{1cm}
+			{\Large \textbf{\uppercase{WAYAMBA UNIVERSITY OF SRI LANKA}}}
 			\vspace{0.5cm}
-			{\large Department of Engineering} \\
+			
+			{\large Department of Nano Science Technology} 
+			
+			\textcolor{MidnightBlue}{\rule{\textwidth}{1.5pt}}
+			\vspace{0.5cm}
+			
+			{\huge \textbf{\uppercase{Engineering Marvels \vspace{0.4cm} of  Sri Lanka}}}
+			\vspace{0.4cm}
+			
+			{\Large \textit{A Critical \& Comparative Study on Ancient and Modern Feats}}
+			\vspace{0.5cm}
+			
+			\textcolor{MidnightBlue}{\rule{\textwidth}{1.5pt}}
 			\vspace{2cm}
 			
-			\textcolor{MidnightBlue}{\rule{\textwidth}{1.5pt}} \\
-			\vspace{0.8cm}
-			{\huge \textbf{\uppercase{Engineering Marvels of Sri Lanka}}} \\
-			\vspace{0.4cm}
-			{\Large \textit{A Critical \& Comparative Study on Ancient and Modern Feats}} \\
-			\vspace{0.5cm}
-			\textcolor{MidnightBlue}{\rule{\textwidth}{1.5pt}} \\
-			
-			\vspace{2.5cm}
-			
 			\begin{minipage}{0.45\textwidth}
-				\begin{flushleft} \large
-					\textbf{Submitted to:}\\
-					Dr. [Lecturer Name]\\
-					Module: [Code] - [Name]
+				\begin{flushleft} 
+					\large\textbf{Submitted to:}
+					
+					Dr. Ashane Fernando
+					
+					Module : NANO2162
+					
 				\end{flushleft}
 			\end{minipage}
 			\hfill
@@ -85,74 +93,108 @@
 	
 	\chapter*{Executive Summary}
 	\addcontentsline{toc}{chapter}{Executive Summary}
-	Sri Lanka possesses a rich history of engineering that spans thousands of years, evolving from ancient hydraulic systems to modern dams and bridges. This report explores five of the most significant engineering marvels in Sri Lanka: the Sigiriya Rock Fortress, Jetavanaramaya Stupa, Jaya Ganga (Yoda Ela), Nine Arches Bridge, and the Victoria Dam. Moving beyond historical descriptions, this document applies advanced engineering principles—such as Terzaghi’s bearing capacity and open-channel fluid dynamics—to critically analyze these structures. Furthermore, by drawing comparisons with global engineering feats like Roman aqueducts and European viaducts, the report highlights the unique material and topographical adaptations of Sri Lankan engineering, whilst addressing contemporary challenges such as weathering, lack of tensile reinforcement, and siltation.
+	
+	 Sri Lanka possesses a rich history of engineering that spans thousands of years, evolving from ancient  hydraulic systems to modern dams and bridges. This report explores five of the most significant engineering marvels in Sri Lanka: the Sigiriya Rock Fortress, Jetavanaramaya Stupa, Jaya Ganga (Yoda Ela), Nine Arches Bridge, and the Victoria Dam. Moving beyond historical descriptions, this document applies advanced engineering principles — such as Terzaghi’s bearing capacity and open-channel fluid dynamics — to critically analyze these structures. Furthermore, by drawing comparisons with global engineering feats like Roman aqueducts and European viaducts, the report highlights the unique material and topographical adaptations of Sri Lankan engineering, whilst addressing contemporary challenges such as weathering, lack of tensile reinforcement, and siltation.
 	
 	\newpage
 	\tableofcontents
+	
 	\newpage
 	\listoffigures
+	
 	\addcontentsline{toc}{chapter}{List of Figures}
 	\newpage
+	
 	\listoftables
 	\addcontentsline{toc}{chapter}{List of Tables}
 	\newpage
 	
-	% --- Main Matter (Arabic Numerals) ---
+	%Main Matter (Arabic Numerals)
 	\pagenumbering{arabic}
 	\setcounter{page}{1}
 	\onehalfspacing
 	
-	% --- Main Content ---
+	%Main Content
 	\chapter{Introduction}
-	The island nation of Sri Lanka boasts an exceptional engineering heritage that requires rigorous technical scrutiny to be fully appreciated. Early Sri Lankan civilizations were masters of hydrology and structural engineering, creating reservoirs and towering monuments that rivaled the Great Pyramids of Egypt. However, unlike Egyptian structures built primarily on solid bedrock, Sri Lankan engineers conquered complex tropical soils and monsoonal climates. This report investigates five outstanding engineering achievements, shifting the paradigm from historical awe to critical technical evaluation by analyzing load distributions, hydraulic gradients, and the modern sustainability of these structures.
+	 The island nation of Sri Lanka boasts an exceptional engineering heritage that requires rigorous technical scrutiny to be fully appreciated. Early Sri Lankan civilizations were masters of hydrology and structural engineering, creating reservoirs and towering monuments that rivaled the Great Pyramids of Egypt. However, unlike Egyptian structures built primarily on solid bedrock, Sri Lankan engineers conquered complex tropical soils and monsoonal climates. This report investigates five outstanding engineering achievements, shifting the paradigm from historical awe to critical technical evaluation by analyzing load distributions, hydraulic gradients, and the modern sustainability of these structures.
 	
 	\chapter{Sigiriya Rock Fortress}
 	\section{Overview}
-	Built during the reign of King Kasyapa (477 – 495 CE), Sigiriya is a massive column of gneiss rock nearly 200 meters high, functioning as both a royal citadel and an intricate urban landscape \cite{bandaranayake}.
+	 Built during the reign of King Kasyapa (477 – 495 CE), Sigiriya is a massive column of gneiss rock nearly 200 meters high, functioning as both a royal citadel and an intricate urban landscape \cite{bandaranayake}.
 	
 	\section{Engineering Significance \& Comparative Analysis}
-	The hydraulic engineering at Sigiriya rivals contemporary global marvels. Unlike the famous Inca sanctuary of Machu Picchu, which relied predominantly on gravity-fed mountain springs, Sigiriya’s water gardens utilize an active pressurized system. The underground terracotta pipes exploit fluid pressure built up from reservoirs at higher elevations, creating functioning fountains that still operate during heavy rains. The structural design of the palace at the summit also demonstrates an advanced understanding of wind shear forces and anchoring techniques on a sheer rock face.
+	 The hydraulic engineering at Sigiriya rivals contemporary global marvels. Unlike the famous Inca sanctuary of Machu Picchu, which relied predominantly on gravity-fed mountain springs, Sigiriya’s water gardens utilize an active pressurized system. The underground terracotta pipes exploit fluid pressure built up from reservoirs at higher elevations, creating functioning fountains that still operate during heavy rains. The structural design of the palace at the summit also demonstrates an advanced understanding of wind shear forces and anchoring techniques on a sheer rock face.
+	
+	\subsection{Hydraulic Engineering and Fluid Dynamics-Active Pressurization:} 
+	 Unlike the Inca sanctuary of Machu Picchu, which relied predominantly on gravity-fed mountain springs, Sigiriya’s water gardens utilize an active pressurized system.  
+	
+	\subsection{Aerodynamic Load Management:}
+	 The structural design of the palace at the summit demonstrates an advanced understanding of wind shear forces. At an elevation of 200 meters, the wind loads on the timber and masonry structures would have been immense.
 	
 	\section{Modern Conservation Challenges}
-	Presently, Sigiriya faces intense weathering. Continuous monsoonal rains induce chemical and physical weathering of the gneiss rock and the ancient plaster holding the frescoes. Modern non-destructive testing (NDT) and chemical consolidants are employed, but engineers face a constant battle between structural reinforcement and preserving material authenticity.
+	 Presently, Sigiriya faces intense weathering. Continuous monsoonal rains induce chemical and physical weathering of the gneiss rock and the ancient plaster holding the frescoes. Modern non-destructive testing (NDT) and chemical consolidants are employed, but engineers face a constant battle between structural reinforcement and preserving material authenticity.
 	
 	\begin{figure}[h]
 		\centering
-		\fbox{\rule{0pt}{2in} \rule{0.6\textwidth}{0pt}} % Placeholder box
+		\includegraphics[width=0.8\textwidth]{sigiriya rock.jpg}
 		\caption{The Majestic Sigiriya Rock Fortress}
 		\label{fig:sigiriya}
 	\end{figure}
 	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{sigiriya rock eng.jpg}
+		\caption{The Majestic Sigiriya Rock Fortress}
+		\label{fig 1:sigiriya}
+	\end{figure}
+	
 	\chapter{Jetavanaramaya Stupa}
 	\section{Overview}
-	Constructed by King Mahasena (273–301 CE), the Jetavanaramaya Stupa was the third tallest structure in the ancient world, representing an apex in massive masonry construction.
+	 Constructed by King Mahasena (273–301 CE), the Jetavanaramaya Stupa was the third tallest structure in the ancient world, representing an apex in massive masonry construction.
 	
 	\section{Advanced Structural Analysis}
-	Originally standing at 122 meters, the stupa carries the massive dead load of approximately 93.3 million baked bricks. While basic compressive stress ($\sigma = F/A$) provides a baseline, a true engineering assessment requires analyzing the soil's bearing capacity. Unlike the Pyramids of Giza, built on solid limestone bedrock, the stupa was built on varying soil strata. We can evaluate this using Terzaghi's Ultimate Bearing Capacity theory:
+	 Originally standing at 122 meters, the stupa carries the massive dead load of approximately 93.3 million baked bricks. While basic compressive stress ($\sigma = F/A$) provides a baseline, a true engineering assessment requires analyzing the soil's bearing capacity. Unlike the Pyramids of Giza, built on solid limestone bedrock, the stupa was built on varying soil strata. We can evaluate this using Terzaghi's Ultimate Bearing Capacity theory:
+	
 	\begin{equation}
 		q_u = c' N_c + q N_q + \frac{1}{2} \gamma B N_\gamma
 	\end{equation}
-	where $q_u$ is the ultimate bearing capacity, $c'$ is the effective cohesion of the soil, $\gamma$ is the unit weight of the soil, $B$ is the foundation width, and $N_c, N_q, N_\gamma$ are bearing capacity factors. To prevent shear failure beneath this colossal load, ancient engineers excavated to the bedrock and utilized an elephant-compacted foundation system. Furthermore, recent Finite Element Analysis (FEA) simulations suggest that their specialized flexible mortar (limestone, sand, clay, and plant resins) acts as a dampener, effectively mitigating seismic stresses \cite{munasinghe2018}.
+	
+ 	where $q_u$ is the ultimate bearing capacity, $c'$ is the effective cohesion of the soil, $\gamma$ is the unit weight of the soil, $B$ is the foundation width, and $N_c, N_q, N_\gamma$ are bearing capacity factors. To prevent shear failure beneath this colossal load, ancient engineers excavated to the bedrock and utilized an elephant-compacted foundation system. Furthermore, recent Finite Element Analysis (FEA) simulations suggest that their specialized flexible mortar (limestone, sand, clay, and plant resins) acts as a dampener, effectively mitigating seismic stresses \cite{munasinghe2018}.
+	
+	\subsection{Nanoscale Material Properties}
+	 The stupa carries a massive dead load of approximately 93.3 million baked bricks. While a basic compressive stress baseline ($\sigma=F/A$) shows the Great Pyramid of Giza exerting roughly 1.2 MPa on solid bedrock, the Jetavanaramaya was built on varying soil strata. 
+	
+	 Furthermore, recent Finite Element Analysis (FEA) simulations suggest that their specialized flexible mortar (limestone, sand, clay, and plant resins) possesses a nanocomposite structure that acts as a dampener, effectively mitigating seismic stresses \cite{munasinghe2018}.
+	
 	
 	\begin{figure}[h]
 		\centering
-		\fbox{\rule{0pt}{2in} \rule{0.6\textwidth}{0pt}} % Placeholder box
+		\includegraphics[width=0.8\textwidth]{jetavanaramaya.jpg}
 		\caption{Jetavanaramaya Stupa in Anuradhapura}
 		\label{fig:jetavanaramaya}
 	\end{figure}
 	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{jetavanaramaya eng.jpg}
+		\caption{Jetavanaramaya Stupa in Anuradhapura}
+		\label{fig 1:jetavanaramaya}
+	\end{figure}
+	
 	\chapter{Jaya Ganga (Yoda Ela)}
 	\section{Overview}
-	The Jaya Ganga is an 87-kilometer-long canal built in the 5th century, carrying water from the Kalawewa reservoir to the Tissa Wewa.
+	 The Jaya Ganga is an 87-kilometer-long canal built in the 5th century, carrying water from the Kalawewa reservoir to the Tissa Wewa.
 	
 	\section{Hydraulic Mapping and Comparative Dynamics}
-	The hallmark of the Jaya Ganga is its extraordinarily low gradient of 10 to 20 centimeters per kilometer over its first 27 kilometers. When compared to the famous Roman Aqueducts—which relied on steep masonry arches to overcome terrain—the Jaya Ganga is an earthwork marvel that contours naturally with the topography. 
+	 The hallmark of the Jaya Ganga is its extraordinarily low gradient of 10 to 20 centimeters per kilometer over its first 27 kilometers. When compared to the famous Roman Aqueducts—which relied on steep masonry arches to overcome terrain—the Jaya Ganga is an earthwork marvel that contours naturally with the topography. 
 	
-	Recent mapping using Light Detection and Ranging (LiDAR) and Geographic Information Systems (GIS) has verified the precise earthen embankments required to maintain this gradient \cite{senanayake2021}. The flow dynamics are governed by Manning's Equation:
+	 Recent mapping using Light Detection and Ranging (LiDAR) and Geographic Information Systems (GIS) has verified the precise earthen embankments required to maintain this gradient \cite{senanayake2021}. The flow dynamics are governed by Manning's Equation:
+	
 	\begin{equation}
 		V = \frac{1}{n} R^{\frac{2}{3}} S^{\frac{1}{2}}
 	\end{equation}
-	Because the slope ($S$) is microscopic, the hydraulic radius ($R$) and channel roughness ($n$) were optimized to maintain a laminar flow. This calculated velocity ensures water delivery while precisely preventing both soil erosion (scouring) on the banks and sediment deposition in the canal bed.
+	
+	 Because the slope ($S$) is microscopic, the hydraulic radius ($R$) and channel roughness ($n$) were optimized to maintain a laminar flow. This calculated velocity ensures water delivery while precisely preventing both soil erosion (scouring) on the banks and sediment deposition in the canal bed.
 	
 	\begin{table}[h]
 		\centering
@@ -170,60 +212,101 @@
 	
 	\begin{figure}[h]
 		\centering
-		\fbox{\rule{0pt}{2in} \rule{0.6\textwidth}{0pt}} % Placeholder box
+		\includegraphics[width=0.8\textwidth]{Jaya Ganga.jpg}
 		\caption{The Flow of Jaya Ganga (Yoda Ela)}
 		\label{fig:jayaganga}
 	\end{figure}
 	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{Jaya Ganga eng.jpg}
+		\caption{The Flow of Jaya Ganga (Yoda Ela)}
+		\label{fig 1:jayaganga}
+	\end{figure}
+	
 	\chapter{Nine Arches Bridge}
 	\section{Overview}
-	Located in Demodara, Ella, the Nine Arches Bridge is an iconic colonial-era railway structure completed in 1921.
+	 Located in Demodara, Ella, the Nine Arches Bridge is an iconic colonial-era railway structure completed in 1921.
 	
 	\section{Material Limitations and Arch Mechanics}
-	Built during World War I, the bridge was constructed entirely without steel, relying on solid rocks, bricks, and cement. In structural mechanics, concrete and masonry possess high compressive strength but negligible tensile strength. Unlike modern European viaducts that utilize steel-reinforced concrete to handle bending moments, the Nine Arches Bridge depends entirely on its geometry. 
+	 Built during World War I, the bridge was constructed entirely without steel, relying on solid rocks, bricks, and cement. In structural mechanics, concrete and masonry possess high compressive strength but negligible tensile strength. Unlike modern European viaducts that utilize steel-reinforced concrete to handle bending moments, the Nine Arches Bridge depends entirely on its geometry. 
 	
-	The parabolic arches ensure that the immense dynamic loads (and vibrations) of passing trains are resolved purely as compressive forces along the arch barrel down into the piers. The absence of tensile reinforcement makes the precise curvature the sole mechanism preventing structural failure, a masterpiece of load-path optimization.
+	 The parabolic arches ensure that the immense dynamic loads (and vibrations) of passing trains are resolved purely as compressive forces along the arch barrel down into the piers. The absence of tensile reinforcement makes the precise curvature the sole mechanism preventing structural failure, a masterpiece of load-path optimization.
+	
+	\section{Structural Geometry \& Load-Path Optimization}
+		\subsection{Material Constraints:} 
+		Located in Demodara, Ella, and completed in 1921, this bridge was constructed entirely without steel, relying exclusively on solid rocks, bricks, and cement.   
+		
+		\subsection{Parabolic Arches:}
+		 Unlike modern European viaducts that utilize steel-reinforced concrete to manage bending moments, this bridge depends entirely on its geometry. The parabolic arches ensure that the immense dynamic loads and vibrations from passing trains are resolved purely as compressive forces that travel along the arch barrel down into the piers
 	
 	\begin{figure}[h]
 		\centering
-		\fbox{\rule{0pt}{2in} \rule{0.6\textwidth}{0pt}} % Placeholder box
+		\includegraphics[width=0.8\textwidth]{Nine Arches Bridge.jpg}
 		\caption{The Nine Arches Bridge in Ella}
 		\label{fig:ninearches}
 	\end{figure}
 	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{Nine Arches Bridge eng.jpg}
+		\caption{The Nine Arches Bridge in Ella}
+		\label{fig 1:ninearches}
+	\end{figure}
+	
 	\chapter{Victoria Dam}
 	\section{Overview}
-	Completed in 1985, the Victoria Dam is a 122-meter-high double curvature arch dam on the Mahaweli River.
+	 Completed in 1985, the Victoria Dam is a 122-meter-high double curvature arch dam on the Mahaweli River.
 	
 	\section{Engineering Significance and Critical Flaws}
-	The double curvature (curved in both plan and elevation) design is highly efficient for narrow, rocky gorges. It transfers hydrostatic water pressure horizontally into the abutments (valley walls) and vertically into the foundation, minimizing the required volume of concrete compared to a gravity dam.
+	 The double curvature (curved in both plan and elevation) design is highly efficient for narrow, rocky gorges. It transfers hydrostatic water pressure horizontally into the abutments (valley walls) and vertically into the foundation, minimizing the required volume of concrete compared to a gravity dam.
 	
-	However, the dam presents modern engineering challenges. \textit{Siltation} is a critical issue; upstream deforestation has accelerated sediment transport, reducing the reservoir's live storage capacity and threatening the turbines of the 210 MW power station. Furthermore, the massive impoundment of water induces localized stress variations in the bedrock, leading to Reservoir-Induced Seismicity (RIS). Continuous geotechnical monitoring is required, demonstrating that large-scale infrastructure permanently alters local geological equilibrium.
+	 However, the dam presents modern engineering challenges. \textit{Siltation} is a critical issue; upstream deforestation has accelerated sediment transport, reducing the reservoir's live storage capacity and threatening the turbines of the 210 MW power station. Furthermore, the massive impoundment of water induces localized stress variations in the bedrock, leading to Reservoir-Induced Seismicity (RIS). Continuous geotechnical monitoring is required, demonstrating that large-scale infrastructure permanently alters local geological equilibrium.
+	
+	\subsection{Geometric Optimization:}
+	
+	 Completed in 1985, the Victoria Dam is a 122-meter-high double curvature arch dam situated on the Mahaweli River.  
+	
+	\subsection{Force Resolution:}
+	
+	 The double curvature (curved in both plan and elevation) is a highly efficient design for narrow, rocky gorges. It systematically transfers immense hydrostatic water pressure horizontally into the abutments (valley walls) and vertically into the foundation.  
+	
+	\subsection{Material Economy:}
+	
+	 By relying on geometry rather than mass to resist the water's force, this design drastically minimizes the required volume of concrete compared to a traditional gravity dam. 
 	
 	\begin{figure}[h]
 		\centering
-		\fbox{\rule{0pt}{2in} \rule{0.6\textwidth}{0pt}} % Placeholder box
+		\includegraphics[width=0.8\textwidth]{Victoria Dam.jpg}
 		\caption{The Victoria Dam Double Curvature Arch}
 		\label{fig:victoriadam}
 	\end{figure}
 	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{Victoria Dam eng.jpg}
+		\caption{The Victoria Dam Double Curvature Arch}
+		\label{fig 1:victoriadam}
+	\end{figure}
+	
 	\chapter{Conclusion}
-	The engineering marvels of Sri Lanka are profound demonstrations of civil, structural, and hydraulic mastery. By moving beyond historical reverence and applying rigorous engineering analysis—such as evaluating Terzaghi's bearing capacity for the Jetavanaramaya and mapping the Jaya Ganga through LiDAR—this report highlights the true technical brilliance of these structures. Comparing them to global counterparts reveals a unique Sri Lankan adaptation to local topography and materials. However, modern challenges like siltation, weathering, and material fatigue prove that engineering is a continuous discipline. These monuments offer indispensable lessons in sustainable design, structural optimization, and the long-term interaction between human infrastructure and the natural environment.
+	 The engineering marvels of Sri Lanka are profound demonstrations of civil, structural, and hydraulic mastery. By moving beyond historical reverence and applying rigorous engineering analysis—such as evaluating Terzaghi's bearing capacity for the Jetavanaramaya and mapping the Jaya Ganga through LiDAR—this report highlights the true technical brilliance of these structures. Comparing them to global counterparts reveals a unique Sri Lankan adaptation to local topography and materials. However, modern challenges like siltation, weathering, and material fatigue prove that engineering is a continuous discipline. These monuments offer indispensable lessons in sustainable design, structural optimization, and the long-term interaction between human infrastructure and the natural environment.
 	
 	\renewcommand{\bibname}{References}
 	\begin{thebibliography}{9}
 		
 		\bibitem{bandaranayake}
-		Bandaranayake, S. (1974). \textit{Sinhalese Monastic Architecture: The Viháras of Anurádhapura}. Brill.
+		 Bandaranayake, S. (1974). \textit{Sinhalese Monastic Architecture: The Viháras of Anurádhapura}. Brill.
 		
 		\bibitem{munasinghe2018}
-		Munasinghe, D., \& Ratnayake, H. (2018). \textit{Structural Analysis of Ancient Brick Stupas: A Finite Element Approach}. Journal of Archaeological Engineering, 12(4), 45-58.
+		 Munasinghe, D., \& Ratnayake, H. (2018). \textit{Structural Analysis of Ancient Brick Stupas: A Finite Element Approach}. Journal of Archaeological Engineering, 12(4), 45-58.
 		
 		\bibitem{senanayake2021}
-		Senanayake, A. (2021). \textit{Hydrological Modeling and LiDAR Mapping of the Jaya Ganga Canal System}. International Journal of Water Resources, 29(2), 112-128.
+		 Senanayake, A. (2021). \textit{Hydrological Modeling and LiDAR Mapping of the Jaya Ganga Canal System}. International Journal of Water Resources, 29(2), 112-128.
 		
 		\bibitem{ceylonrailway}
-		Perera, D. (2014). \textit{The Ceylon Railway: The Story of its Inception and Growth}. Colombo.
+		 Perera, D. (2014). \textit{The Ceylon Railway: The Story of its Inception and Growth}. Colombo.
+		
 		
 	\end{thebibliography}
 	
