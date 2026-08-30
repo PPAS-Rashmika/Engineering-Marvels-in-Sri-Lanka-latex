@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.19)  23 AUG 2026 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.19)  30 AUG 2026 22:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,37 +406,481 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count317
+\float@exts=\toks28
+\float@box=\box56
+\@float@everytoks=\toks29
+\@floatcapt=\box57
 )
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 36
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip71
+\multirow@cntb=\count318
+\multirow@dima=\skip72
+\bigstrutjot=\dimen198
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen199
+\pgfutil@tempdimb=\dimen256
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box58
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen257
+\pgf@y=\dimen258
+\pgf@xa=\dimen259
+\pgf@ya=\dimen260
+\pgf@xb=\dimen261
+\pgf@yb=\dimen262
+\pgf@xc=\dimen263
+\pgf@yc=\dimen264
+\pgf@xd=\dimen265
+\pgf@yd=\dimen266
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count319
+\c@pgf@countb=\count320
+\c@pgf@countc=\count321
+\c@pgf@countd=\count322
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count323
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count324
+\pgfsyssoftpath@bigbuffer@items=\count325
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen267
+\pgfmath@count=\count326
+\pgfmath@box=\box59
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count327
+))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen268
+\pgf@picmaxx=\dimen269
+\pgf@picminy=\dimen270
+\pgf@picmaxy=\dimen271
+\pgf@pathminx=\dimen272
+\pgf@pathmaxx=\dimen273
+\pgf@pathminy=\dimen274
+\pgf@pathmaxy=\dimen275
+\pgf@xx=\dimen276
+\pgf@xy=\dimen277
+\pgf@yx=\dimen278
+\pgf@yy=\dimen279
+\pgf@zx=\dimen280
+\pgf@zy=\dimen281
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen282
+\pgf@path@lasty=\dimen283
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen284
+\pgf@shorten@start@additional=\dimen285
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count328
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen286
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen287
+\pgf@pt@y=\dimen288
+\pgf@pt@temp=\dimen289
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen290
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen291
+\pgf@sys@shading@range@num=\count329
+\pgf@shadingcount=\count330
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box63
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box64
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen292
+\pgf@nodesepend=\dimen293
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen294
+\pgffor@skip=\dimen295
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count331
+\pgfplotmarksize=\dimen296
+)
+\tikz@lastx=\dimen297
+\tikz@lasty=\dimen298
+\tikz@lastxsaved=\dimen299
+\tikz@lastysaved=\dimen300
+\tikz@lastmovetox=\dimen301
+\tikz@lastmovetoy=\dimen302
+\tikzleveldistance=\dimen303
+\tikzsiblingdistance=\dimen304
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count332
+\tikznumberofchildren=\count333
+\tikznumberofcurrentchild=\count334
+\tikz@fig@count=\count335
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count336
+\pgfmatrixcurrentcolumn=\count337
+\pgf@matrix@numberofcolumns=\count338
+)
+\tikz@expandcount=\count339
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+\t@pgfplots@toka=\toks42
+\t@pgfplots@tokb=\toks43
+\t@pgfplots@tokc=\toks44
+\pgfplots@tmpa=\dimen305
+\c@pgfplots@coordindex=\count340
+\c@pgfplots@scanlineindex=\count341
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks45
+\t@pgf@tokb=\toks46
+\t@pgf@tokc=\toks47
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count342
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex
+\c@pgfplotstable@counta=\count343
+\t@pgfplotstable@a=\toks48
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count344
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen306
+\pgfdecoratedremainingdistance=\dimen307
+\pgfdecoratedinputsegmentcompleteddistance=\dimen308
+\pgfdecoratedinputsegmentremainingdistance=\dimen309
+\pgf@decorate@distancetomove=\dimen310
+\pgf@decorate@repeatstate=\count345
+\pgfdecorationsegmentamplitude=\dimen311
+\pgfdecorationsegmentlength=\dimen312
+)
+\tikz@lib@dec@box=\box69
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count346
+\pgfplots@xmin@reg=\dimen313
+\pgfplots@xmax@reg=\dimen314
+\pgfplots@ymin@reg=\dimen315
+\pgfplots@ymax@reg=\dimen316
+\pgfplots@zmin@reg=\dimen317
+\pgfplots@zmax@reg=\dimen318
+)
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 41
 .
- (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count317
+\l__color_backend_stack_int=\count347
 ) (Engineering-Marvels-in-Sri-Lanka-NANO2162.aux)
 \openout1 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -476,17 +920,17 @@ LaTeX Font Info:    ... okay on input line 36.
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
-\scratchdimen=\dimen198
-\scratchbox=\box56
-\nofMPsegments=\count319
-\nofMParguments=\count320
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count321
-\MPscratchDim=\dimen199
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count348
+\scratchdimen=\dimen319
+\scratchbox=\box70
+\nofMPsegments=\count349
+\nofMParguments=\count350
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count351
+\MPscratchDim=\dimen320
+\MPnumerator=\count352
+\makeMPintoPDFobject=\count353
+\everyMPtoPDFconversion=\toks50
 )
 (C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -499,56 +943,24 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 36.
+Package hyperref Info: Link coloring ON on input line 41.
  (Engineering-Marvels-in-Sri-Lanka-NANO2162.out)
 (Engineering-Marvels-in-Sri-Lanka-NANO2162.out)
-\@outlinefile=\write3
-\openout3 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.out'.
+\@outlinefile=\write4
+\openout4 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.out'.
 
-<logo.jpg, id=103, 263.48438pt x 263.48438pt>
+
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+<logo.jpg, id=166, 263.48438pt x 263.48438pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 43.
-(pdftex.def)             Requested size: 136.57462pt x 136.57845pt.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 69.
-
-(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 69.
-
-(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 69.
-
-(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 69.
-
-(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
-9.
-
-(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
-
+Package pdftex.def Info: logo.jpg  used on input line 53.
+(pdftex.def)             Requested size: 104.7042pt x 104.70438pt.
 [1
 
 {C:/Users/rashm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rash
@@ -557,64 +969,112 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97 	\newpage
-               [1
+l.145 	\newpage
+                [1
 
-] (Engineering-Marvels-in-Sri-Lanka-NANO2162.toc)
-\tf@toc=\write4
-\openout4 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.toc'.
+] (Engineering-Marvels-in-Sri-Lanka-NANO2162.toc
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 6.
 
- [2
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 6.
 
-]
-(Engineering-Marvels-in-Sri-Lanka-NANO2162.lof)
-\tf@lof=\write5
-\openout5 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.lof'.
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 6.
 
- [3
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 6.
 
-]
-(Engineering-Marvels-in-Sri-Lanka-NANO2162.lot)
-\tf@lot=\write6
-\openout6 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.lot'.
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
+.
+
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+
+[2
+
+])
+\tf@toc=\write5
+\openout5 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3] (Engineering-Marvels-in-Sri-Lanka-NANO2162.lof
+Overfull \hbox (5.22813pt too wide) in paragraph at lines 7--7
+ [][] [][][]\T1/ptm/m/n/12 Ancient bricks pos-sessed higher poros-ity to al-low
+ the resin-mortar to seep deeply, 
+ []
+
+)
+\tf@lof=\write6
+\openout6 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.lof'.
 
  [4
 
+] (Engineering-Marvels-in-Sri-Lanka-NANO2162.lot)
+\tf@lot=\write7
+\openout7 = `Engineering-Marvels-in-Sri-Lanka-NANO2162.lot'.
+
+ [5
+
 ]
 Chapter 1.
-
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+67.
+(C:\Users\rashm\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.117 	\chapter
+l.178 	\chapter
                {Sigiriya Rock Fortress} [1
 
 ]
 Chapter 2.
-<sigiriya_rock.jpg, id=181, 8094.24pt x 6070.68pt>
-File: sigiriya_rock.jpg Graphic file (type jpg)
-<use sigiriya_rock.jpg>
-Package pdftex.def Info: sigiriya_rock.jpg  used on input line 134.
-(pdftex.def)             Requested size: 364.19667pt x 273.07619pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+[]\T1/ptm/m/n/12 Moisture re-ten-tion and ten-sile
+ []
 
-<sigiriya_rock_eng.jpg, id=182, 944.02687pt x 646.66594pt>
-File: sigiriya_rock_eng.jpg Graphic file (type jpg)
-<use sigiriya_rock_eng.jpg>
-Package pdftex.def Info: sigiriya_rock_eng.jpg  used on input line 141.
-(pdftex.def)             Requested size: 364.19667pt x 249.47531pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+[]\T1/ptm/m/n/12 Hydrophobic sur-face pre-vent-ing
+ []
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 	\chapter
-               {Jetavanaramaya Stupa} [2
+l.204 	
+        [2
 
 ]
 
@@ -629,35 +1089,39 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 	\chapter
-               {Jetavanaramaya Stupa} [3 <./sigiriya_rock.jpg> <./sigiriya_rock
-_eng.jpg>]
-Chapter 3.
-<jetavanaramaya.jpg, id=193, 270.71138pt x 180.675pt>
-File: jetavanaramaya.jpg Graphic file (type jpg)
-<use jetavanaramaya.jpg>
-Package pdftex.def Info: jetavanaramaya.jpg  used on input line 165.
-(pdftex.def)             Requested size: 364.19667pt x 243.08743pt.
+l.230 	\begin{equation}
+                        [3]
+<sigiriya_rock.jpg, id=309, 8094.24pt x 6070.68pt>
+File: sigiriya_rock.jpg Graphic file (type jpg)
+<use sigiriya_rock.jpg>
+Package pdftex.def Info: sigiriya_rock.jpg  used on input line 265.
+(pdftex.def)             Requested size: 364.19667pt x 273.07619pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<jetavanaramaya_eng.jpg, id=194, 452.69125pt x 363.3575pt>
-File: jetavanaramaya_eng.jpg Graphic file (type jpg)
-<use jetavanaramaya_eng.jpg>
-Package pdftex.def Info: jetavanaramaya_eng.jpg  used on input line 172.
-(pdftex.def)             Requested size: 364.19667pt x 292.32751pt.
+<sigiriya_rock_eng.jpg, id=310, 944.02687pt x 646.66594pt>
+File: sigiriya_rock_eng.jpg Graphic file (type jpg)
+<use sigiriya_rock_eng.jpg>
+Package pdftex.def Info: sigiriya_rock_eng.jpg  used on input line 272.
+(pdftex.def)             Requested size: 364.19667pt x 249.47531pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.177 	\chapter
-               {Jaya Ganga (Yoda Ela)} [4
-
-]
+l.280 	\chapter
+               {Jetavanaramaya Stupa} [4]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -665,27 +1129,72 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5 <./jetavanaramaya.jpg> <./jetavanaramaya_eng.jpg>]
-Chapter 4.
-<Jaya_Ganga.jpg, id=210, 2055.68pt x 1223.57124pt>
-File: Jaya_Ganga.jpg Graphic file (type jpg)
-<use Jaya_Ganga.jpg>
-Package pdftex.def Info: Jaya_Ganga.jpg  used on input line 211.
-(pdftex.def)             Requested size: 364.19667pt x 216.76067pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.280 	\chapter
+               {Jetavanaramaya Stupa} [5 <./sigiriya_rock.jpg> <./sigiriya_rock
+_eng.jpg>]
+Chapter 3.
+[6
+
+]
+<jetavanaramaya.jpg, id=329, 270.71138pt x 180.675pt>
+File: jetavanaramaya.jpg Graphic file (type jpg)
+<use jetavanaramaya.jpg>
+Package pdftex.def Info: jetavanaramaya.jpg  used on input line 346.
+(pdftex.def)             Requested size: 364.19667pt x 243.08743pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Jaya_Ganga_eng.jpg, id=211, 471.26062pt x 456.20438pt>
+<jetavanaramaya_eng.jpg, id=330, 452.69125pt x 363.3575pt>
+File: jetavanaramaya_eng.jpg Graphic file (type jpg)
+<use jetavanaramaya_eng.jpg>
+Package pdftex.def Info: jetavanaramaya_eng.jpg  used on input line 353.
+(pdftex.def)             Requested size: 364.19667pt x 292.32751pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8 <./jetavanaramaya.jpg> <./jetavanaramaya_eng.jpg>]
+Chapter 4.
+[9
+
+]
+<Jaya_Ganga.jpg, id=349, 2055.68pt x 1223.57124pt>
+File: Jaya_Ganga.jpg Graphic file (type jpg)
+<use Jaya_Ganga.jpg>
+Package pdftex.def Info: Jaya_Ganga.jpg  used on input line 416.
+(pdftex.def)             Requested size: 364.19667pt x 216.76067pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Jaya_Ganga_eng.jpg, id=350, 471.26062pt x 456.20438pt>
 File: Jaya_Ganga_eng.jpg Graphic file (type jpg)
 <use Jaya_Ganga_eng.jpg>
-Package pdftex.def Info: Jaya_Ganga_eng.jpg  used on input line 218.
+Package pdftex.def Info: Jaya_Ganga_eng.jpg  used on input line 423.
 (pdftex.def)             Requested size: 364.19667pt x 352.56625pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6
-
-]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -693,27 +1202,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7 <./Jaya_Ganga.jpg> <./Jaya_Ganga_eng.jpg>]
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11 <./Jaya_Ganga.jpg> <./Jaya_Ganga_eng.jpg>]
 Chapter 5.
-<Nine_Arches_Bridge.jpg, id=223, 4015.0pt x 2258.4375pt>
+[12
+
+]
+<Nine_Arches_Bridge.jpg, id=368, 4015.0pt x 2258.4375pt>
 File: Nine_Arches_Bridge.jpg Graphic file (type jpg)
 <use Nine_Arches_Bridge.jpg>
-Package pdftex.def Info: Nine_Arches_Bridge.jpg  used on input line 238.
+Package pdftex.def Info: Nine_Arches_Bridge.jpg  used on input line 493.
 (pdftex.def)             Requested size: 364.19667pt x 204.8358pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Nine_Arches_Bridge_eng.jpg, id=224, 333.4056pt x 211.63065pt>
+<Nine_Arches_Bridge_eng.jpg, id=369, 333.4056pt x 211.63065pt>
 File: Nine_Arches_Bridge_eng.jpg Graphic file (type jpg)
 <use Nine_Arches_Bridge_eng.jpg>
-Package pdftex.def Info: Nine_Arches_Bridge_eng.jpg  used on input line 245.
+Package pdftex.def Info: Nine_Arches_Bridge_eng.jpg  used on input line 500.
 (pdftex.def)             Requested size: 364.19667pt x 231.19594pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8
-
-]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -721,25 +1239,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9 <./Nine_Arches_Bridge.jpg> <./Nine_Arches_Bridge_eng.jpg>]
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14 <./Nine_Arches_Bridge.jpg> <./Nine_Arches_Bridge_eng.jpg>]
 Chapter 6.
-<Victoria_Dam.jpg, id=234, 3661.68pt x 2746.26pt>
+[15
+
+]
+<Victoria_Dam.jpg, id=392, 3661.68pt x 2746.26pt>
 File: Victoria_Dam.jpg Graphic file (type jpg)
 <use Victoria_Dam.jpg>
-Package pdftex.def Info: Victoria_Dam.jpg  used on input line 266.
+Package pdftex.def Info: Victoria_Dam.jpg  used on input line 557.
 (pdftex.def)             Requested size: 364.19667pt x 273.13353pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Victoria_Dam_eng.jpg, id=235, 1434.86063pt x 903.375pt>
+<Victoria_Dam_eng.jpg, id=393, 1434.86063pt x 903.375pt>
 File: Victoria_Dam_eng.jpg Graphic file (type jpg)
 <use Victoria_Dam_eng.jpg>
-Package pdftex.def Info: Victoria_Dam_eng.jpg  used on input line 273.
+Package pdftex.def Info: Victoria_Dam_eng.jpg  used on input line 564.
 (pdftex.def)             Requested size: 364.19667pt x 229.28929pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17 <./Victoria_Dam.jpg> <./Victoria_Dam_eng.jpg>]
+Chapter 7.
+[18
+
+] [19
 
 ]
 
@@ -749,41 +1298,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11 <./Victoria_Dam.jpg> <./Victoria_Dam_eng.jpg>]
-Chapter 7.
-[12
-
-] [13
-
-] (Engineering-Marvels-in-Sri-Lanka-NANO2162.aux)
+[20] (Engineering-Marvels-in-Sri-Lanka-NANO2162.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `Engineering-Marvels-in-Sri-Lanka-NANO2162.ou
 t' has not changed.
-(rerunfilecheck)             Checksum: 6D231B01D960E60B5E574B14C6C5116F;4463.
+(rerunfilecheck)             Checksum: 115E3DA9C62DEE607911C9693DF60EB8;7570.
  ) 
 Here is how much of TeX's memory you used:
- 12869 strings out of 467871
- 206311 string characters out of 5418376
- 633878 words of memory out of 5000000
- 41506 multiletter control sequences out of 15000+600000
- 669609 words of font info for 94 fonts, out of 8000000 for 9000
+ 33601 strings out of 467871
+ 785662 string characters out of 5418376
+ 1322403 words of memory out of 5000000
+ 61835 multiletter control sequences out of 15000+600000
+ 678892 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,84p,1232b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,19n,94p,1232b,2180s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts
-/type1/urw/symbol/usyr.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/
-type1/urw/times/utmb8a.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/
-type1/urw/times/utmr8a.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on Engineering-Marvels-in-Sri-Lanka-NANO2162.pdf (18 pages, 2056
-6424 bytes).
+cmex10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/rashm/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rashm/AppData/Local/Programs/MiK
+TeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/rashm/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/rashm/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/rashm/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Engineering-Marvels-in-Sri-Lanka-NANO2162.pdf (26 pages, 2063
+3104 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 256 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 477 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
+ 388 words of extra memory for PDF output out of 10000 (max. 10000000)
 

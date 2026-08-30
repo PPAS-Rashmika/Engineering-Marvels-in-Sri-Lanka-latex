@@ -1,25 +1,40 @@
 \contentsline {chapter}{Executive Summary}{1}{chapter*.1}%
-\contentsline {chapter}{List of Figures}{3}{chapter*.3}%
-\contentsline {chapter}{List of Tables}{4}{chapter*.4}%
+\contentsline {chapter}{List of Figures}{4}{chapter*.3}%
+\contentsline {chapter}{List of Tables}{5}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Sigiriya Rock Fortress}{2}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Overview}{2}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Engineering Significance \& Comparative Analysis}{2}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Material Science in Ancient Plasters:}{2}{subsection.2.2.1}%
-\contentsline {section}{\numberline {2.3}Modern Conservation Challenges}{2}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Jetavanaramaya Stupa}{4}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Overview}{4}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Advanced Structural and Material Analysis}{4}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Nanoscale Material Properties of the Mortar}{4}{subsection.3.2.1}%
-\contentsline {chapter}{\numberline {4}Jaya Ganga (Yoda Ela)}{6}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Overview}{6}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Hydraulic Mapping and Comparative Dynamics}{6}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Nine Arches Bridge}{8}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Overview}{8}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Geotechnical Engineering and Foundation Design}{8}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Material Constraints and Arch Mechanics}{8}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Victoria Dam}{10}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Overview}{10}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Double Curvature Arch Mechanics}{10}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Concrete Thermodynamics and Material Engineering}{10}{section.6.3}%
-\contentsline {chapter}{\numberline {7}Conclusion}{12}{chapter.7}%
+\contentsline {section}{\numberline {2.1}Historical Background}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Construction Materials and Degradation}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Engineering Challenges}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Engineering Significance}{3}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Fluid Dynamics of the Pressurized Fountains}{3}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Aerodynamic Anchoring Mechanisms}{4}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {3}Jetavanaramaya Stupa}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Historical Background}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Construction Materials and Degradation}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Engineering Challenges}{7}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Engineering Significance}{7}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Terzaghi’s Circular Footing Analysis}{7}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Hoop Stress Management}{7}{subsection.3.4.2}%
+\contentsline {chapter}{\numberline {4}Jaya Ganga (Yoda Ela)}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Historical Background}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Construction Materials and Degradation}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Engineering Challenges}{9}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Engineering Significance}{9}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}The Bisokotuwa (Ancient Surge Chamber)}{9}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Manning's Equation and Canal Gradient}{10}{subsection.4.4.2}%
+\contentsline {chapter}{\numberline {5}Nine Arches Bridge}{12}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Historical Background}{12}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Construction Materials and Degradation}{12}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Engineering Challenges}{12}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Engineering Significance}{13}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Voussoir Arch Statics and Horizontal Thrust}{13}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Dynamic Resonance Dampening}{13}{subsection.5.4.2}%
+\contentsline {chapter}{\numberline {6}Victoria Dam}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Historical Background}{15}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Construction Materials and Degradation}{15}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Engineering Challenges}{15}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Engineering Significance}{15}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Integration of Hydrostatic Force}{15}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Thermodynamic Mass Concrete Management}{16}{subsection.6.4.2}%
+\contentsline {chapter}{\numberline {7}Conclusion}{18}{chapter.7}%
